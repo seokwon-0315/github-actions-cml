@@ -1,5 +1,5 @@
-pandas
+wget
 scikit-learn
-matplotlib
+pandas
 seaborn
-numpy
+matplotlib
